@@ -21,3 +21,8 @@ python grade_calculator.py
 - Input validation and error handling
 
 ## Sample Output
+STUDENT GRADE REPORT
+Subject           Marks  Credits  Grade   GP
+Mathematics        85       4       A      9
+Physics            72       3       B+     8
+GPA: 8.57 | Status: PASS
